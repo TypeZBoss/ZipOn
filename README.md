@@ -16,7 +16,8 @@ files **and folders** easily.
 
 ## ▶️ How to Run
 1. Install Python 3.8 or newer
-2. Clone the repository:
+2. run pip install requirements.txt
+3. Clone the repository:
    ```bash
    git clone https://github.com/TypeZBoss/ZipOn.git
 <img width="400" height="430" alt="ziphub" src="https://github.com/user-attachments/assets/ae0bc4dd-e4a9-4db5-bf27-66fd20b78693" />
